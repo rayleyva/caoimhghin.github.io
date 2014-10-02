@@ -1,144 +1,26 @@
 ---
+layout: default
+title: Kevin Amerson
+permalink: /
+group: nav
+weight: 0
 ---
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="{{ site.description }}">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<div class="home">
 
-    <style>
-        {% include pygment_trac.css %}
-        {% include styles.css %}
-    </style>
+  <h1 class="page-heading">Posts</h1>
 
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Kevin Amerson</h1>
-        <ul>
-            <li><a href="https://github.com/caoimhghin"><strong>Github</strong>Profile</a></li>
-            <li><a href="https://about.me/kevinamerson"><strong>About Me</strong>Page</a></li>
-            <li><a href="https://linkedin.com/in/kevinamerson"><strong>Linked In</strong>Profile</a></li>
-        </ul>
-        <h4 style="margin-bottom:5px;">Nastraq</h4>
-        <p>Demand based pricing for music: <a href="http://www.nastraq.com">Nastraq</a></p>
-        <h4 style="margin-bottom:5px;">Whopath</h4>
-        <p>First click attribution, affiliate marketing community: <a href="https://www.whopath.com">Whopath</a></p>
-        <h4 style="margin-bottom:5px;">Support Pages</h4>
-        <p>Run all your support through Twitter: <a href="http://supportpages.info">Support Pages</a></p>
-        <h4 style="margin-bottom:5px;">Open Source Rethink DB ORM</h4>
-        <p>Object mapper in the style of App Engine NDB: <a href="https://www.github.com/caoimhghin/rethink">Rethink RDB</a></p>
-      </header>
-      <section>
-        <h2>Tagline: Try many different things; do more of what works and less of what doesn't</h2>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <p>Bio area </p>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
 
-        <ul>
-            <li>Cut $100,000.00 in payment processing contracts and took our website international by implementing an in-house payment system backed by Stripe.com.</li>
-            <li>Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream</li>
-        </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
-        <h2>LOS ANGELES, CA (June 2010 - Present)</h2>
-
-        <h3>Chief Technology Officer, Co-Founder</h3>
-        <b>Nastraq</b> 2014 - Present
-        <p>About our work at Nastraq</p>
-
-        <h3>Director of Software Engineering</h3>
-        <b>Evite, Inc.</b> May 2012 - Present
-        <p>
-        Lead the development and implementation of Postmark.com. Managed development tasks between a team of contractors and our in-house development team. Augmented development as needed. Grew Postmark from concept through three separate launches into a multi-million dollar pay-for-play revenue stream augmenting Evite's existing ad-based revenue model.
-        </p>
-        <p><em>Technology included Python, Django, MySQL, CloudSQL, Google Appengine, Google NDB, AWS S3, GCS, Cloudflare</em></p>
-
-        <h3>Senior Software Engineer</h3>
-        <b>Evite, Inc.</b> June 2010 - May 2012
-        <p>
-        Jump onto a five person team rewriting Evite's entire platform from its very old (original?) systems. Full stack development included database, web services, and an innovative javascript app/website framework running entirely in the browser.
-        </p>
-        <p><em>Technologies included Python, MySQL, JSON entity data storage, JSON ReST Web Services, Javascript</em></p>
-
-        <h2>AUSTIN, TEXAS (June 1998 - June 2010)</h2>
-
-        <h3>Microsoft .NET Architect</h3>
-        <b>The Knot Inc.</b> June 2007 - June 2010
-        <p>
-        Print Media: Local enterprise services (ad sales, fulfillment, publishing and reporting). Main goal was to move all required functionality off a mainframe system onto modern internal platforms. Launched four distinct internal products covering the range of our print magazines and ad management needs: Vendor dashboard, vendor reviews, centralized / shared vendor data access, and content publisher system.
-        </p>
-        <p><em>Technologies included SQL Server, Microsoft .NET 3.5, Web Services (WCF)</em></p>
-
-        <h3>Consultant</h3>
-        <b>Hahn Sports Media</b> 2007
-        <p>
-        One of five founding partners tasked with implementing a sports media website, Let's Go To The Game. We thought that people wanted to get together and
-            and attend sports events together, and I am sure we all do, we just don't need a website to help us with that. We do it naturally.
-        </p>
-
-        <h3>Technical Team Lead</h3>
-        <b>Gerson Lehrman Group</b> 2006
-        <p>
-        Lead, design, develop and deploy a product to integrate their existing internal web application with Sugar CRM. This project was a total success and included integration through both .NET and PHP web services to do data synchronization both ways.  Sales force personnel would update Sugar CRM and business consultants would update their internal application. The data synchronization happened in near real-time with a maximum allowed delay of five minutes.
-        </p>
-        <p><em>Technologies included Drupal CMS, LAMP, Sugar CRM, .NET, PHP</em></p>
-
-        <h2>OMAHA, NE (1 year)</h2>
-
-        <h3>SOA Architect</h3>
-        <b>Momentum SI, Inc.</b> December 2005 - June 2006
-        <p>
-        Mainly research and development as Service Oriented Architecture (SOA) became the hot topic. Developed a training course on writing services using WCF, illustrated best practices mainly Contract First SOA Design and Architecture. Developed a SOA Aggregate Feed Reader as a demo application in Ruby.
-        </p>
-        <p><em>Technologies included WCF, Sonic ESB, Ruby, Ruby on Raiils with SOAP4r, SCGI, LAMP</em></p>
-
-        <h2>AUSTIN, TEXAS (June 1998 - December 2005)</h2>
-
-        <h3>Technical Lead</h3>
-        <b>Momentum SI, Inc.</b> June 2004 - December 2005
-        <p>
-        Momentum SI is a software consulting firm. Was Microsoft MCP. I met with clients and developed applications as needed. Give training and discussions at client sites on development best practices and unit testing.
-        </p>
-        <p><em>Technologies included TSQL, ADO.NET, data binding to grids and other windows controls, MS Web Services, NUnit, .NET Framework (C#)</em></p>
-
-        <h3>Senior Software Developer</h3>
-        <b>Real-Vue Simulation Technologies, Inc.</b> October 2003 - June 2004
-        <p>
-        As co-lead on the simulation design team, completed three different training simulators (Caterpillar laser leveling equipment, HP Insight Manager Simulation, MultiMedia Web Simulator plugin for other simulations)
-        </p>
-        <p><em>Technologies included java swing, AWT, JSP, JavaScript, HTML, CSS, XML, JNI, C++</em></p>
-
-        <h3>Senior Software Developer</h3>
-        <b>Texas Legislative Council</b> July 2002 - October 2003
-        <p>
-        Co-Architected an HR Management application using ASP.NET and SQL Server technologies.  I was involved with the product from initial design through its on scheduled final release (Met with the client, defined requirements, wrote Use Cases, Sequence Diagrams, and developed Class Diagrams).
-        </p>
-        <p><em>Technologies included ASP.NET, SQL Server, UML</em></p>
-
-        <h3>Software Engineer</h3>
-        <b>Pointserve, Inc.</b> August 2000, May 2002
-        <p>
-        It really is rocket science! Worked on route optimization website called ServiceXchange, solving the traveling salesman problem. I was responsible for transferring core knowledge from consultants and extending functionality in the existing Java based services.
-        </p>
-        <p>Technologies included Oracle8 & TopLink, Java Server Application, JavaBeans and JSPs</p>
-
-        <h3>Software Developer</h3>
-        <b>Nirvana Systems, Inc.</b> June 1998 - August 2000
-        <p>
-        Worked on the core product, OmniTrader 2000.
-        </p>
-        <p><em>Technologies included Visual Basic / Windows Application</em></p>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="js/scale.fix.js"></script>
-  </body>
-</html>
+</div>

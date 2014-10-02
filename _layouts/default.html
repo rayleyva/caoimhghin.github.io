@@ -7,12 +7,54 @@
 
     {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+    <div class="container">
 
+        <div class="blog-header">
+            <h1 class="blog-title">{{ page.title }}</h1>
+            <p class="lead blog-description">{{ page.description }}</p>
+        </div>
+
+        <div class="row">
+
+        <div class="col-sm-8 blog-main">
+            {{ content }}
+        </div>
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+          <div class="sidebar-module sidebar-module-inset">
+            <h4>Kevin Amerson</h4>
+            <p class="small"><em>Try many different things; do more of what works and less of what doesn't.</em></p>
+            <p>Etiam porta <em>sem malesuada magna</em> mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.</p>
+          </div>
+          <div class="sidebar-module">
+            <h4>Projects</h4>
+            <ol class="list-unstyled">
+              <li>Demand based pricing for music: <a href="http://www.nastraq.com">Nastraq</a></li>
+              <li>First click attribution, affiliate marketing community: <a href="https://www.whopath.com">Whopath</a></li>
+              <li>Run all your support through Twitter: <a href="http://supportpages.info">Support Pages</a></li>
+              <li>Object mapper in the style of App Engine NDB: <a href="https://www.github.com/caoimhghin/rethink">Rethink RDB</a></li>
+            </ol>
+          </div>
+          <div class="sidebar-module">
+            <h4>Archives</h4>
+            <ol class="list-unstyled">
+              <li><a href="#">March 2014</a></li>
+              <li></li>
+            </ol>
+          </div>
+          <div class="sidebar-module">
+            <h4>Elsewhere</h4>
+            <ol class="list-unstyled">
+              <li><a href="https://github.com/caoimhghin">GitHub</a></li>
+              <li><a href="https://about.me/kevinamerson">About.me</a></li>
+              <li><a href="https://linkedin.com/in/kevinamerson">Linked In</a></li>
+            </ol>
+          </div>
+        </div>
+
+        </div>
+
+    </div>
     {% include footer.html %}
 
   </body>
