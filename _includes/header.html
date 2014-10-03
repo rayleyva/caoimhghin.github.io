@@ -1,12 +1,26 @@
-<div class="blog-masthead">
-    <div class="container">
-        <nav class="blog-nav">
-            {% assign pages = site.pages | sort:"weight" %}
-            {% for node in pages %}
-            {% if group == null or group == 'nav' %}
-            <a href="{{node.url}}" class="blog-nav-item {% if page.url == node.url %}active{% endif %}">{{node.title}}</a>
-            {% endif %}
-            {% endfor %}
-        </nav>
+<nav class="navbar navbar-default navbar-inverse" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Kevin Amerson</a>
     </div>
-</div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+          {% assign pages = site.pages | sort:"weight" %}
+            {% for node in pages %}
+            {% if node.group == 'nav' %}
+            <li class="{% if page.url == node.url %}active{% endif %}"><a href="{{node.url}}">{{node.title}}</a></li>
+            {% endif %}
+          {% endfor %}
+          <li><a href="https://github.com/caoimhghin/feedback/issues/new">Questions</a></li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
