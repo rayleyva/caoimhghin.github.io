@@ -6,7 +6,7 @@
     <meta name="author" content="Kevin Amerson">
     <link rel="icon" href="/favicon.ico">
 
-    <title>Kevin Amerson - @caoimhghin - {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <style>
         {% include pygment_trac.css %}

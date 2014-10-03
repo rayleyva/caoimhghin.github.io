@@ -88,7 +88,13 @@ h3:nth-of-type(1) {margin:0;}
   color: #999;
 }
 
+.post-meta {
+    float:right;
+}
 
+.blog-sidebar {
+    margin-top:48px;
+}
 /*
  * Footer
  */
