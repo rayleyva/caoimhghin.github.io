@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruthless Automation and Delegation"
 date:   2013-12-15 14:32:39
-categories: 4-hour-workweek update
+categories: 4-hour-workweek
 ---
 
 <p>Since I posted about <a href="http://kevinamerson.com/ruthlessly-cutting-back">Ruthlessly Cutting Back</a>, I've been working hard to make this a reality. I've accomplished a lot on my TODO list by adopting those principles. Cutting out non-actionable information is critical and doing that alone is a huge help. Some minor things like reducing laundry frequency, &nbsp;turning sync off on my phone, and making better use of Google's Priority Inbox feature all add up to savings as well enabling me to get more done.</p><p><b>But I still do a lot of boring things</b></p><ul>

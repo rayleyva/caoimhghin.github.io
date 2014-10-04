@@ -4,7 +4,7 @@ layout: default
 <div class="home">
 
 {% for post in site.posts %}
-    <h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h3>
+    <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h4>
 {% endfor %}
 
 </div>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruthlessly Cutting Back"
 date:   2013-07-20 13:42:39
-categories: 4-hour-workweek update
+categories: 4-hour-workweek
 ---
 
 I'm reading the 4-hour Workweek again and running through this part about doing less. At least for me it makes a

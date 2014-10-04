@@ -2,7 +2,6 @@
 layout: post
 title:  "Super Simple Referral Program"
 date:   2013-12-17 17:32:39
-categories: whopath update
 ---
 
 <p><b>Who Referred Someone to you Who Purchased From You?</b></p><p>This is the only question that I need answered in order to run my&nbsp;<b>referral program</b>. It seems way more complicated than this whenever I think about starting a pay for performance marketing campaign, but it really isn't.</p><p>I've been trying to setup a good program for <a href="http://www.texascustomholsters.com">Texas Custom Holsters</a>&nbsp;for a long time now and as such I've evaluated several options including:</p><ul>

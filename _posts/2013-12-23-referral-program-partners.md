@@ -2,7 +2,6 @@
 layout: post
 title:  "Referral Program Partners: Customers and Marketers"
 date:   2013-12-23 12:36:39
-categories: update
 ---
 
 <p>Online marketing programs are made up of different types of people all marketing your product or service a little differently. Let's take a look at the top two:<br></p><div>

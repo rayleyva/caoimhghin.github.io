@@ -2,7 +2,6 @@
 layout: post
 title:  "Setting up Your Referral Program: ClickMeter and Refersion"
 date:   2013-08-10
-categories: update
 ---
 
 <p>I'm making a shift in my marketing efforts for&nbsp;<a href="http://www.texascustomholsters.com" target="_blank">Texas Custom Holsters</a>&nbsp;or rather attempting to add an affiliate program, also known as a referral or partner program. Basically a pay-for-performance marketing program or revenue sharing program, holy cow we've created a lot of names for the same thing. The basic idea is:</p><p><b><i>PAY FOR CONVERSIONS</i></b><br></p><p>I understand that I need to get exposure and display ads word... in volume. I also understand that all of your advertising and marketing channels work together in such a way as the sum is greater than the parts. It all makes sense and we will keep some ads going and will keep pursuing exposure on Facebook, Twitter, Google+, Pinterest, Flickr and our own blog. All that being said I need some help, and I need help that will be ROI positive.<b><br></b></p><p>Enter the pay for performance marketing program. I like this idea because it means that I will get help from marketers that are much better at marketing than I am, and we will expand existing word-of-mouth if there are no minimums (refer even one friend... get paid). How do we go about putting this together? The first thing I did was look at affiliate programs because&nbsp;<i>affiliate program</i> is the big buzz word right now.</p><ol>

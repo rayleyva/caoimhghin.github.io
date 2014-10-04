@@ -2,7 +2,6 @@
 layout: post
 title:  "Why Being Naive is Good"
 date:   2013-09-14
-categories: update
 ---
 
 <p><i>In order to succeed you have to be a little bit naive.</i><br><i>--unknown</i></p><p><i></i>I read somewhere that in order to succeed you should be at least a little bit naive. That concept made sense to me instantly. We all think we have everything figured out, especially when we judge a new idea or concept. That means that before even giving the idea a chance, unless we're a little bit naive, a little bit open, consider that we might not know for sure... then we'll never succeed. We will simply shoot down every idea that comes our way.<br></p><p>Being a little naive helps us try to open doors again and again and again. If we're not naive then we learn quickly. We need to learn more slowly, and I'll wager what we learn when we learn slowly is quite a bit different than what we learn when we learn quickly. For instance if I email a blogger and ask them to join my affiliate network I will likely get no reply. I could instantly learn that the email is a failure and stop emailing bloggers with the offer. I could also be a little naive and just keep emailing people, don't learn so fast and just keep trying. Probably a few bloggers will respond, and those responses get traction... After a while that little bit of traction starts to turn results.</p>

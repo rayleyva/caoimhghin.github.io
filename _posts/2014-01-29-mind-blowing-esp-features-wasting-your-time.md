@@ -2,7 +2,6 @@
 layout: post
 title:  "Mind Blowing ESP Features Wasting Your Time?"
 date:   2014-01-29 23:01:22
-categories: update
 ---
 
 <p>During a review of our email campaigns recently our marketing team talked a lot about how we need to choose a ESP to handle our marketing emails instead of sending them in-house. The arguments generally followed along the lines of more data, more analytics, more options, more features, lots of more more more. It was mind blowing just to hear about the different data points that some ESPs provide.<br></p>
