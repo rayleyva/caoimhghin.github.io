@@ -15,8 +15,3 @@ twitter_user: https://twitter.com/kevinamerson
 github_user: https://github.com/caoimhghin
 
 markdown: kramdown
-
-analytics :
-  provider : google
-  google :
-      tracking_id : 'UA-660216-23'
