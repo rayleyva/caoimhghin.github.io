@@ -8,21 +8,23 @@ weight: 1
 
 ## Highlights
 
-Cut $100,000.00 in payment processing contracts and took our website international by implementing an in-house payment system backed by Stripe.com.
-
-Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream
+* Reduced payment processing costs by *~$100,000.00* and took our website international by implementing an in-house payment system backed by Stripe.com.
+* Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream.
+* Effectively managed our partnership with Lincoln Loop to augment our internal development team.
 
 ## LOS ANGELES, CA - June 2010+
 
 ### Chief Technology Officer, Co-Founder
 *Nastraq - 2014+*
 
-Nastraq is the music industry disruptor with force
+Nastraq is the music industry disruptor aiming to be the online music store with demand based pricing. Prices rise and fall as people listen and download. As the technology partner, I'm advising on implementation details of the web based music store as well as the API that will be consumed by the mobile applications.
+
+*Technology includes RethinkDB, Python, Django, Rackspace Cloud Files, Twitter API*
 
 ### Director of Engineering
 *Evite, Inc. - May 2012+*
 
-Lead the development and implementation of Postmark.com. Managed development tasks between a team of contractors and our in-house development team. Augmented development as needed. Grew Postmark from concept through three separate launches into a multi-million dollar pay-for-play revenue stream augmenting Evite's existing ad-based revenue model.
+Lead the development and implementation of Postmark.com (Now evite.com/plus). Managed development tasks between a team of contractors and our in-house development team. Augmented development as needed. Grew Postmark from concept through three separate launches into a multi-million dollar pay-for-play revenue stream augmenting Evite's existing ad-based revenue model.
 
 *Technology included Python, Django, MySQL, CloudSQL, Google Appengine, Google NDB, AWS S3, GCS, Cloudflare*
 
