@@ -9,38 +9,41 @@ weight: 1
 ## Highlights
 
 * Reduced payment processing costs by *~$100,000.00* and took our website international by implementing an in-house payment system backed by Stripe.com.
-* Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream.
-* Effectively managed our partnership with Lincoln Loop to augment our internal development team.
+* Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream ($0 - $11,000+ per day).
+* Effectively managed our partnership with Lincoln Loop to augment our internal development team over a three year period.
 
 ## LOS ANGELES, CA - June 2010+
 
-### Chief Technology Officer, Co-Founder
-*Nastraq - 2014+*
+### Chief Technology Officer, Investor, Co-Founder
+*TwoTraq - 2014+*
 
-Nastraq is the music industry disruptor aiming to be the online music store with demand based pricing. Prices rise and fall as people listen and download. As the technology partner, I'm advising on implementation details of the web based music store as well as the API that will be consumed by the mobile applications.
+This music industry disruptor aims to be the only music distribution hub with demand based pricing. Prices rise and fall 
+as people listen and download. As the technology leader, I assembled a new technology stack moving off of the prototype 
+onto a stack that will scale easily and cost effectively.
 
 *Technology includes RethinkDB, Python, Django, Rackspace Cloud Files, Twitter API*
 
 ### Director of Engineering
-*Evite, Inc. - May 2012+*
+*Evite, Inc. - May 2010+*
 
-Lead the development and implementation of Postmark.com (Now evite.com/plus). Managed development tasks between a team of contractors and our in-house development team. Augmented development as needed. Grew Postmark from concept through three separate launches into a multi-million dollar pay-for-play revenue stream augmenting Evite's existing ad-based revenue model.
+Led the development and ongoing evolution of Postmark.com. Assembled the technology stack for Evite Postmark which later 
+became the standard for all Evite application development. Assisted with all aspects of development including concept definition, 
+marketing, PR, product design, feature choices, feature estimates, feasibility analysis, and customer service. Managed 
+development tasks between a team of contractors and our in-house development team. Augmented development as needed. Grew 
+Evite Postmark from concept through three separate launches into a multi-million dollar pay-for-play revenue stream 
+augmenting Evite's existing ad-based revenue model.
 
 *Technology included Python, Django, MySQL, CloudSQL, Google Appengine, Google NDB, AWS S3, GCS, Cloudflare*
-
-### Senior Software Engineer
-*Evite, Inc. - June 2010 - May 2012*
-
-Jump onto a five person team rewriting Evite's entire platform from its very old (original?) systems. Full stack development included database, web services, and an innovative javascript app/website framework running entirely in the browser.
-
-*Technologies included Python, MySQL, JSON entity data storage, JSON ReST Web Services, Javascript*
 
 ## AUSTIN, TEXAS - 1998 to 2010
 
 ### Technical Team Lead
 *The Knot, Inc. - June 2007 to June 2010*
 
-Print Media: Local enterprise services (ad sales, fulfillment, publishing and reporting). Main goal was to move all required functionality off a mainframe system onto modern internal platforms. Launched four distinct internal products covering the range of our print magazines and ad management needs: Vendor dashboard, vendor reviews, centralized / shared vendor data access, and content publisher system.
+Print Media: Local enterprise services (ad sales, fulfillment, publishing and reporting). Main goal was to move all required 
+functionality off a mainframe system onto modern internal platforms. Launched four distinct internal products covering the 
+range of our print magazines and ad management needs: Vendor dashboard, vendor reviews, centralized / shared vendor data access, 
+and content publisher system.
 
 *Technologies included SQL Server, Microsoft .NET 3.5, Web Services (WCF)*
 
