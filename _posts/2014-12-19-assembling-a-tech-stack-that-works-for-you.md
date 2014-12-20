@@ -29,6 +29,7 @@ What are some of the high level things to look at on your team to see if the sta
 What about the evolution of the stack?
 
 My tech stacks (at least for passion projects) invariably start off as:
+
 1. Google App Engine
 2. Web App 2
 3. A single Python file
@@ -40,6 +41,7 @@ a good amount of functionality very fast that works most of the time. This stack
 on code organization.
 
 From here, one direction this stack can evolve is:
+
 1. Google App Engine
 2. Django
 3. Multiple django apps (instead of one python file)
@@ -49,6 +51,7 @@ From here, one direction this stack can evolve is:
 From here, maybe we need more control over aspects of our platform than are available on GAE. One such request from a team that is common is
 to instrument the python code for performance tuning. This difficult on Google App Engine so let's evolve this tech stack to address this
 requirement:
+
 1. Rackspace Cloud Server
 2. Ubuntu
 3. MySQL
