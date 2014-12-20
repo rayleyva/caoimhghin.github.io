@@ -31,14 +31,14 @@ What about the evolution of the stack?
 My tech stacks (at least for passion projects) invariably start off as:
 
 1. Google App Engine
-2. Web App 2
+2. WebApp2
 3. A single Python file
 4. Jinja2
 5. HTML/CSS and/or JSON
 
 This starter stack is tailored for me, as a one or two person team. It is the easiest, and fastest to assemble and enables me to succeed at producing
-a good amount of functionality very fast that works most of the time. This stack handles change extremely well as almost no time is spent
-on code organization.
+a good amount of functionality very fast that works most of the time. This stack handles change extremely well as no time is spent
+on code organization, and we leverage a ton of capability out of the box with GAE and WebApp2.
 
 From here, one direction this stack can evolve is:
 
@@ -49,7 +49,7 @@ From here, one direction this stack can evolve is:
 5. HTML/CSS and/or JSON
 
 From here, maybe we need more control over aspects of our platform than are available on GAE. One such request from a team that is common is
-to instrument the python code for performance tuning. This difficult on Google App Engine so let's evolve this tech stack to address this
+to instrument the python code for performance tuning. This is difficult on Google App Engine so let's evolve this tech stack to address this
 requirement:
 
 1. Rackspace Cloud Server
