@@ -7,13 +7,13 @@ categories:
 Since entering software development in 1998 I've put together technology stacks for many different projects and every time
 the solution is different; unique to the project and the team at the time. The success of particular tech stacks is so
 interesting that http://stackshare.io/ exists. You can go there and read about lots of different technology stacks that
-teams have used to successfully deliver on their promises. What works for one team my not work well for another. What
+teams have used to successfully deliver on their promises. What works for one team may not work well for another. What
 makes tech stacks unique and what is it about them that boosts a team's success (or aides in failure)?
 
 I believe that the most important thing about a technology stack has nothing to do with the specific pieces of the stack at all. The
 most important thing about it is the team's ability to use and evolve the stack to fit the needs of the team and the products that
-it is building and supporting. The tech stack that drives success is intimately tied to the team, and how the team operates. It is
-driven by what drives the team, what excites the team; what does this team believe in and what is it passionate about?
+it builds and supports. The tech stack that drives success is intimately tied to the team, and how the team operates. It is
+driven by what drives the team, the team culture, and what excites the team. What does this team believe in and what is it passionate about?
 
 Therefore there is no magic bullet. This is why there are so many variations of technology stacks on StackShare; they are as
 varied as the teams using them.
@@ -21,10 +21,10 @@ varied as the teams using them.
 What are some of the high level things to look at on your team to see if the stack that you're assembling is a good fit?
 
 * Complexity (solutions are complex or simple?)
-* Size (Quantity work output)
-* Team skillsets (programming, ops, dev ops, and all the associated tools and languages)
+* Size (Number of people and work output)
+* Skillsets (programming, ops, dev ops, and all the associated tools and languages)
 * Attitude (Anything goes? Wants rigid interfaces and strong OO principles?)
-* Fault tolerance (Can we handle a good percentage of issues? Or must never fail in production?)
+* Tolerance (Can we handle a good percentage of issues? Or must never fail in production?)
 
 What about the evolution of the stack?
 
