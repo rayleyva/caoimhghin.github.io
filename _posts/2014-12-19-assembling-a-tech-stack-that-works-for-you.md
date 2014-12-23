@@ -62,7 +62,7 @@ requirement:
 8. HTML/CSS
 9. New Relic Python module (instrumentation)
 
-Here I've made a few choices to keep everything steamlined for a small team, but I hope to highlight here how the tech stack itself
+Here I've made a few choices to keep everything streamlined for a small team, but I hope to highlight here how the tech stack itself
 isn't the most important thing to consider for success; rather consider your team and also how you will evolve your tech stack along
 with your team, your company, and your products.
 
