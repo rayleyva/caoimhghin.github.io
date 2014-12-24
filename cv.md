@@ -12,6 +12,9 @@ weight: 1
 * Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream ($0 - $11,000+ per day).
 * Effectively managed our partnership with Lincoln Loop to augment our internal development team over a three year period.
 
+## Education
+I obtained a Bachelor of Science in Mechanical Engineering from The University of Texas at Austin in 2002.
+
 ## LOS ANGELES, CA - June 2010+
 
 ### Chief Technology Officer, Investor, Co-Founder
