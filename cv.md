@@ -17,15 +17,6 @@ I obtained a Bachelor of Science in Mechanical Engineering from The University o
 
 ## LOS ANGELES, CA - June 2010+
 
-### Chief Technology Officer, Investor, Co-Founder
-*TwoTraq - 2014+*
-
-This music industry disruptor aims to be the only music distribution hub with demand based pricing. Prices rise and fall 
-as people listen and download. As the technology leader, I assembled a new technology stack moving off of the prototype 
-onto a stack that will scale easily and cost effectively.
-
-*Technology includes RethinkDB, Python, Django, Rackspace Cloud Files, Twitter API*
-
 ### Director of Engineering
 *Evite, Inc. - May 2010+*
 
