@@ -8,9 +8,10 @@ weight: 1
 
 ## Highlights
 
-* Reduced payment processing costs by *~$100,000.00* and took our website international by implementing an in-house payment system backed by Stripe.com.
-* Grew Evite Postmark through three separate launches into a multi-million dollar revenue stream ($0 - $15,000+ per day).
-* Effectively managed our partnership with Lincoln Loop to augment our internal development team over a three year period.
+* Founded two companies, shut one down, the other is consistently growing by 15% per year
+* Worked at four startups, two funded and two early stage/pre-funding
+* Exposed to a wide range of tech as a professional consultant for four years
+* Managed software development teams from three to eleven people
 
 ## Education
 Bachelor of Science in Mechanical Engineering from The University of Texas at Austin
@@ -23,16 +24,15 @@ Bachelor of Science in Mechanical Engineering from The University of Texas at Au
 Led the development and ongoing evolution of Postmark.com. Assembled the technology stack for Evite Postmark which later 
 became the standard for all Evite application development. Assisted with all aspects of development including concept definition, 
 marketing, PR, product design, feature choices, feature estimates, feasibility analysis, and customer service. Managed 
-development tasks between a team of contractors and our in-house development team. Augmented development as needed. Grew 
-Evite Postmark from concept through three separate launches into a multi-million dollar pay-for-play revenue stream 
-augmenting Evite's existing ad-based revenue model.
+development tasks between a team of contractors and our in-house development team. Augmented development as needed.
 
 *Technology included Python, Django, MySQL, CloudSQL, Google Appengine, Google NDB, AWS S3, GCS, Cloudflare*
 
 ### Texas Custom Holsters
 *Founder, Mechanical Engineer, Software Engineer*
 
-Developed a new kind of gun holster made for mounting inside boxes.
+Developed a new kind of gun holster made for mounting inside boxes. The holster is very easy to install in a variety
+of positions and is pressed to exactly fit over 150 different handgun models.
 
 *Technology included SolidWorks, 3D Printing, HTML/CSS, Shopify, Stripe, Cloudflare*
 
@@ -49,14 +49,26 @@ and content publisher system.
 ### Hahn Sports Media / Fangregate
 *Technical Consultant, Co-Founder*
 
-One of five founding partners tasked with implementing a sports media website, Let's Go To The Game. We thought that people wanted to get together and attend sports events together, and I am sure we all do, we just don't need a website to help us with that. We do it naturally.
+One of five founding partners tasked with implementing a sports media website, Let's Go To The Game. We thought that people
+wanted to get together and attend sports events together, and I am sure we all do, we just don't need a website to help
+us with that. We do it naturally.
 
 ### Gerson Lehrman Group
 *Technical Team Lead*
 
-Lead, design, develop and deploy a product to integrate their existing internal web application with Sugar CRM. This project was a total success and included integration through both .NET and PHP web services to do data synchronization both ways.  Sales force personnel would update Sugar CRM and business consultants would update their internal application. The data synchronization happened in near real-time with a maximum allowed delay of five minutes.
+Design, develop and deploy a product to integrate their existing internal web application with Sugar CRM. This project
+was a total success and included integration through both .NET and PHP web services to do data synchronization both ways.
+Sales force personnel would update Sugar CRM and business consultants would update their internal application. The data
+synchronization happened in near real-time with a maximum allowed delay of five minutes.
 
 *Technologies included Drupal CMS, LAMP, Sugar CRM, .NET, PHP*
+
+### ApplePics
+*Founder*
+
+Started an image hosting service, grew it to over 10,000 active users, went broke, shut it down.
+
+*Technologies included PHP, MySQL, Linux, Apache*
 
 ### Momentum SI, Inc.
 *Senior Software Engineer, SOA Architect*
