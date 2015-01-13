@@ -10,7 +10,7 @@ weight: 1
 
 * Founded two companies, shut one down, the other is consistently growing by 15% per year
 * Worked at four startups, two funded and two early stage/pre-funding
-* Exposed to a wide range of tech as a professional consultant for four years
+* Exposure to a wide range of technologies as a professional consultant for four years
 * Managed software development teams from three to eleven people
 
 ## Education
