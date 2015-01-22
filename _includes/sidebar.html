@@ -1,6 +1,6 @@
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
     <div class="sidebar-module sidebar-module-inset">
-        <img src="/images/profile.jpg" style="width:100%" />
+        <img src="/img/profile.jpg" style="width:100%" />
         <h4 style="margin-bottom:4px;">Kevin Amerson</h4>
         <p class="small text-center">
             <em>Try many different things; do more of what works and less of what doesn't.</em><br/>
@@ -8,10 +8,12 @@
         </p>
     </div>
     {% for project in site.data.projects %}
-    <div class="sidebar-module sidebar-module-inset">
-        <img src="{{ project.image }}" style="width:100%" />
+    <div class="sidebar-module sidebar-module-inset text-center">
+        {% if project.image %}
+            <img src="/img/{{ project.image }}" style="width:50%;" />
+        {% endif %}
         <h4><a href="{{ project.url }}" target="_blank">{{ project.name }}</a></h4>
-        <p class="small text-center"><em>{{ project.description }}</em></p>
+        <p class="small"><em>{{ project.description }}</em></p>
     </div>
     {% endfor %}
 </div>

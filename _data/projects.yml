@@ -1,5 +1,5 @@
 - name: MillionTraqs
-  image: /images/milliontraqs.png
+  image: milliontraqs.png
   url: http://www.milliontraqs.com
   description: >
     We're immortalizing 1,000,000 music traqs on a beautiful wall
@@ -7,7 +7,7 @@
 
 - name: WhoPath
   url: http://www.whopath.com
-  image: /images/whopath.png
+  image: whopath.png
   description: >
     Creating an affiliate marketplace that values community, and transparency. We aim
     to solve a growing pain in the affiliate space by guaranteeing first click attribution
