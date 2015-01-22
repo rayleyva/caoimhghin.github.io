@@ -1,0 +1,21 @@
+- name: MillionTraqs
+  image: /images/milliontraqs.png
+  url: http://www.milliontraqs.com
+  description: >
+    We're immortalizing 1,000,000 music traqs on a beautiful wall
+    and giving back to the music community at the same time!
+
+- name: WhoPath
+  url: http://www.whopath.com
+  image: /images/whopath.png
+  description: >
+    Creating an affiliate marketplace that values community, and transparency. We aim
+    to solve a growing pain in the affiliate space by guaranteeing first click attribution
+    for affiliates.
+
+- name: RethinkDB RDB
+  url: https://www.github.com/caoimhghin/rethink
+  description: >
+    Object mapper in the style of App Engine NDB. I was looking for a way to
+    port code out of AppEngine and really wanted to keep it in the style of NDB. This
+    way my models port over very easily.
