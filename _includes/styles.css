@@ -108,7 +108,11 @@ h3 {font-size:20px;margin-bottom:12px;}
 h3 em {text-decoration:underline;font-style:normal;}
 h4 {font-size:16px;margin-bottom:12px;font-weight:bold}
 h5 {font-size:16px;text-decoration:underline;margin-top:18px;margin-bottom:30px;}
-h6 {font-size:16px;text-decoration:underline;margin-top:-12px;margin-bottom:20px;}
+h6 {font-size:16px;text-decoration:underline;margin-bottom:20px;}
+
+.marketing-container {
+  line-height: 1.6;
+}
 
 .marketing-container ul li {font-size:14px;}
 .marketing-container p {font-size:14px;}
@@ -124,7 +128,10 @@ h4,
 h5,
 h6 {text-align:center;}
 
-h1.blog-title {text-align:left;}
+h1.blog-title,
+.blog-main h2,
+.blog-main h3,
+.blog-main h4 {text-align:left;}
 
 #case-study-milliontraqscom,
 #case-study-creekroadranchcom {background-color:#C92E2E;}
