@@ -97,7 +97,7 @@ next level.
 
 Start simple. Build only the features you need.
 
-This is how MT launched and kept costs down, while moving a lightening speed. Now they have a robust tech stack that
+This is how MT launched and kept costs down, while moving at lightening speed. Now they have a robust tech stack that
 supports all their needs and will evolve with them well into the future.
 
 Just some of the things I built:
@@ -114,10 +114,55 @@ Just some of the things I built:
 
 <hr/>
 
+## Professional Website Maintenance And Management Services
+
+Besides exceptional software development, I also pride myself on bringing unparalleled attention to your websites' needs…
+**no matter how small you think the ‘job’ might be**.
+
+If you are prepared to put your trust in me, then I believe I owe it to you to offer exceptional results in performance, reliability, scalability and cost.
+
+My Web Services Include:
+
+* Data backups
+* Code and system backups
+* Software updates
+* Uptime monitoring
+* Performance monitoring
+* Current cost analysis
+* Software development
+* Implementing change management process
+* Orchestrating changes with different groups of people involved (social media marketers, content curators, copywriters, software developers, moderators)
+* Effectiveness measurement and key metrics analysis to help increase conversions (based on customer feedback and real-time data)
+* And much more…
+
+###### Consider This Service A Complete Digital Property Management Service
+
+I will maintain your web properties. I will problem solve as problems arise. I will upgrade and run your analytics. I will take care of your property so you can just enjoy ownership without the hassle of upkeep.
+
+<div class="text-center">
+(If you have any other needs the chances are I still cover them so feel free to contact me below)
+</div>
+
+## Case Study: CreekRoadRanch.com
+
+For just **$300 dollars** I moved this dinosaur website from a super crappy ancient host to a state of the art cloud server at
+DigitalOcean and even provide hosting for an entire year. Within a week the new HOA manager enjoyed a modern content
+management system; pre-loaded with all their old information. Does the site stay up to date? Now it does.
+
+This teeny-tiny project included:
+
+* Audit current web site pages and assets
+* Rework web pages and update with new information
+* Port the current data, web pages and assets into WordPress
+* Install, Host, and Monitor A Custom WordPress Install (Included For One Year)
+* Launch Test Site
+* Test, Change, and Only When Ready - Go Live
+* Comprehensive website management for one year
+
 ### *GUARANTEED: NO CONTRACT TOO SMALL*
 
 If you have a great idea but don’t know where to start and have been put off by the HUGE costs of dealing with most
-professional (and on-shore) services then relax, because as well as taking on larger contracts I love to work on the little jobs.
+professional (and on-shore) services then relax, because as well as taking on larger contracts **I love to work on the little jobs**.
 
 #### I Enjoy Taking On Very Small Contracts
 
@@ -125,21 +170,6 @@ Unlike most custom development shops that need a $30k contract to get started—
 single piece of functionality for you at a time…
 
 And regardless of contract size every single one of my clients enjoys the same level of service.
-
-## Case Study: CreekRoadRanch.com
-
-For just **$300 dollars** I moved this dinosaur website from a super crappy ancient host to a state of the art cloud server at
-DigitalOcean and even paid to host the site for an entire year. Within a week the new HOA manager enjoyed a modern content
-management system; pre-loaded with all their old information. Does the site stay up to date? Now it does.
-
-This teeny-tiny project included:
-
-* Audit current web site pages and assets
-* Rework web pages and update with new information
-* Port the current web pages and assets into WordPress
-* Install, Host, and Monitor A Custom WordPress Install (Included For One Year)
-* Launch Test Site
-* Test, Change, and Only When Ready - Go Live
 
 ## Get A Professional Coder In Your Corner Today
 
@@ -165,7 +195,7 @@ Kevin Amerson
 <br/>
 <br/>
 
-## Use These To Get You Started
+## Use These As Ideas To Get You Started
 
 ### *El Cheapo Website Upkeep Retainer*
 
