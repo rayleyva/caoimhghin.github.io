@@ -101,6 +101,7 @@ This is how MT launched and kept costs down, while moving at lightening speed. N
 supports all their needs and will evolve with them well into the future.
 
 Just some of the things I built:
+
 * Python Django Twitter Authentication
 * Python Django Google Plus Authentication
 * Python Django Blobstore Image Upload and Serving Module
@@ -175,26 +176,37 @@ And regardless of contract size every single one of my clients enjoys the same l
 
 My current hourly rate is $200 per hour, but as of today and for a short time only (as I can only work with so many
 clients at any one time to ensure quality and rapid turnaround) you can get a professional coder working on your custom
-designed project of ONLY $70 per hour.
+designed project for ONLY $70 per hour.
 
-#### If you are ready to find out if your concept could lead to you realizing your dreams online then there is no better time than right now.
+#### Ready to find out if your concept will go all the way?<br/>there's no better time than **right now**.
+
+Send me an email using the button below with a description of the work you
+want done and I will get back to you before you can say “what’s gone wrong with MYSQL?”
+
+And if you have no idea where to even start then I am happy to brainstorm with you.
+
+Think of it as a FREE consultation…
+
+<span style="text-decoration:underline">There is absolutely no obligation on your part, and only great advice waiting for you.</span>
+
+Email me below and I’ll be in touch.
 
 <br/>
 <br/>
-*All you need to do to get started is:*
 
 <div class="text-center">
 <a href="mailto:kevin.amerson@gmail.com" class="btn btn-lg btn-primary">Email Me</a> or <a class="btn btn-lg btn-default" href="https://github.com/caoimhghin/feedback/issues/new">Open an issue on Github</a>
 </div>
+
 <br/>
 <br/>
 To your success,
 
-Kevin Amerson
+*Kevin Amerson*
 <br/>
 <br/>
 <br/>
-
+<hr/>
 ## Use These As Ideas To Get You Started
 
 ### *El Cheapo Website Upkeep Retainer*
