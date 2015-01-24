@@ -1,9 +1,15 @@
 ---
 layout: default
+title: Recent Posts
 ---
 <div class="home">
-    <h3>Recent posts</h3>
+    <ul class="list-unstyled post-list">
     {% for post in site.posts limit:4 %}
-    <h4><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></h4>
+        <li>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                {{ post.title }}
+            </a><br/><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span>
+        </li>
     {% endfor %}
+    </ul>
 </div>

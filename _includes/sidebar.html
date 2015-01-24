@@ -1,13 +1,19 @@
 <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
     <div class="sidebar-module sidebar-module-inset">
-        <img src="/profile.jpg" style="width:100%" />
-        <h4>Kevin Amerson</h4>
-        <p class="small"><em>Try many different things; do more of what works and less of what doesn't.</em></p>
-        <ol class="list-unstyled">
-            <li><a href="{{ site.twitter_user }}">Twitter</a></li>
-            <li><a href="{{ site.github_user }}">GitHub</a></li>
-            <li><a href="https://about.me/kevinamerson">About.me</a></li>
-            <li><a href="https://linkedin.com/in/kevinamerson">Linked In</a></li>
-        </ol>
+        <img src="/img/profile.jpg" style="width:100%" />
+        <h4 style="margin-bottom:4px;">Kevin Amerson</h4>
+        <p class="small text-center">
+            <em>Try many different things; do more of what works and less of what doesn't.</em><br/>
+            <p class="small text-center"><em>Evolution. <b>Accelerated.</b></em></p>
+        </p>
     </div>
+    {% for project in site.data.projects %}
+    <div class="sidebar-module sidebar-module-inset text-center">
+        {% if project.image %}
+            <img src="/img/{{ project.image }}" style="width:50%;" />
+        {% endif %}
+        <h4><a href="{{ project.url }}" target="_blank">{{ project.name }}</a></h4>
+        <p class="small"><em>{{ project.description }}</em></p>
+    </div>
+    {% endfor %}
 </div>

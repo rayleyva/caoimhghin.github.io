@@ -9,11 +9,11 @@ body {
 }
 
 
-h2, .h2 {margin:24px 0; border-bottom: solid 1px #cccccc;}
-h2:nth-of-type(1) {margin:0 0 24px 0;}
+/*h2, .h2 {margin:24px 0; border-bottom: solid 1px #cccccc;}*/
+/*h2:nth-of-type(1) {margin:0 0 24px 0;}*/
 
-h3, .h3 {margin-top:24px;}
-h3:nth-of-type(1) {margin:0;}
+/*h3, .h3 {margin-top:24px;}*/
+/*h3:nth-of-type(1) {margin:0;}*/
 
 /*
  * Override Bootstrap's default container.
@@ -59,12 +59,13 @@ h3:nth-of-type(1) {margin:0;}
 /* Sidebar modules for boxing content */
 .sidebar-module {
   padding: 15px;
-  margin: 0 -15px 15px;
+  margin: 0 0 15px -15px;
 }
 .sidebar-module-inset {
   padding: 15px;
-  background-color: #f5f5f5;
+  background-color: #F5F5F5;
   border-radius: 4px;
+
 }
 .sidebar-module-inset p:last-child,
 .sidebar-module-inset ul:last-child,
@@ -100,6 +101,40 @@ h3:nth-of-type(1) {margin:0;}
 /*
  * Footer
  */
+h1 {font-size:42px;font-weight:bold;margin-bottom:20px;}
+h2 {font-size:24px;border:none;text-decoration: none;}
+h2 em {text-decoration:underline;font-style:normal;}
+h3 {font-size:20px;margin-bottom:12px;}
+h3 em {text-decoration:underline;font-style:normal;}
+h4 {font-size:16px;margin-bottom:12px;font-weight:bold}
+h5 {font-size:16px;text-decoration:underline;margin-top:18px;margin-bottom:30px;}
+h6 {font-size:16px;text-decoration:underline;margin-bottom:20px;}
+
+.marketing-container {
+  line-height: 1.6;
+}
+
+.marketing-container ul li {font-size:14px;}
+.marketing-container p {font-size:14px;}
+.marketing-container p.small {font-size:85%;}
+
+.marketing-container h1 {margin-left:20px;margin-right:20px;}
+
+.marketing-container h2 {background-color:#444;color:#fff;padding:12px;}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {text-align:center;}
+
+h1.blog-title,
+.blog-main h2,
+.blog-main h3,
+.blog-main h4 {text-align:left;}
+
+#case-study-milliontraqscom,
+#case-study-creekroadranchcom {background-color:#C92E2E;}
 
 .blog-footer {
   padding: 40px 0;
@@ -111,4 +146,7 @@ h3:nth-of-type(1) {margin:0;}
 .blog-footer p:nth-of-type(1) {font-size:18px;}
 .blog-footer p:last-child {
   margin-bottom: 0;
+}
+
+.post-list li { margin-bottom:16px;
 }
