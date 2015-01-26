@@ -189,13 +189,11 @@ Think of it as a FREE consultation…
 
 <span style="text-decoration:underline">There is absolutely no obligation on your part, and only great advice waiting for you.</span>
 
-Email me below and I’ll be in touch.
-
 <br/>
 <br/>
 
 <div class="text-center">
-<a href="mailto:kevin.amerson@gmail.com" class="btn btn-lg btn-primary">Email Me</a> or <a class="btn btn-lg btn-default" href="https://github.com/caoimhghin/feedback/issues/new">Open an issue on Github</a>
+<a href="/get-started/" class="btn btn-lg btn-primary">Let's Get Started</a>
 </div>
 
 <br/>
@@ -218,6 +216,9 @@ To your success,
 * Setup modern DNS/CDN/Security layers in front of your website
 * Move to our servers with backups
 
+<br/>
+
+<a href="/get-started/?o=el-cheapo" class="btn btn-warning">I Want This One</a>
 <hr/>
 
 ### *Comprehensive Website Evaluation*
@@ -229,6 +230,9 @@ To your success,
 * Ease of Use and Maintainability
 * Website Performance Analysis (Mobile/Desktop)
 
+<br/>
+
+<a href="/get-started/?o=comprehensive" class="btn btn-warning">I Want This One</a>
 <hr/>
 
 ### *Custom Software Development Contract*
@@ -240,6 +244,10 @@ To your success,
 * Assemble your technology stack
 * Document system architectures
 * Full stack application development
+
+<br/>
+
+<a href="/get-started/?o=custom-dev" class="btn btn-warning">I Want This One</a>
 
 <br/>
 <br/>
