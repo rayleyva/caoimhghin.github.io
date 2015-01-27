@@ -8,10 +8,6 @@ weight: 1
 
 *Need Exceptional Software Built Fast?*
 
-# “Finally! Get Your Concept Coded – And Make Bank”
-
-### (With No Fear Of Delay, With No Fear of Receiving Junk, And Without Having To Rob A Bank To Pay For It!)
-
 Too many people’s dreams of creating a website and making it big online die before they even leave the workshop—if you
 want the chance to turn your concept into a reality, then read on to discover why **there is no better time than today**.
 
@@ -74,7 +70,7 @@ that has benefited from multiple layers of expertise.
 
 ### And It Won’t Cost You 30K To Get Started
 
-In fact, it wont cost you anything even close to that.
+In fact, it won't cost you anything even close to that.
 
 ## Professional Software Development Services
 
@@ -113,7 +109,7 @@ Just some of the things I built:
 * Security Wrapped by CloudFlare
 * Full HTML/CSS/JavaScript Compression and Minification
 
-<hr/>
+<br/>
 
 ## Professional Website Maintenance And Management Services
 
@@ -205,7 +201,8 @@ To your success,
 <br/>
 <br/>
 <hr/>
-## Use These As Ideas To Get You Started
+
+## <a id="options"></a>Use These As Ideas To Get You Started
 
 ### *El Cheapo Website Upkeep Retainer*
 
