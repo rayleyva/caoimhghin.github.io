@@ -180,3 +180,17 @@ h1.blog-title,
 #intro p.tiny {
     font-size: small;margin-top:10px;
 }
+.teaser-icon {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 15px;
+    color: #C44141;
+    text-align: center;
+    border: 1px solid #e5e5e5;
+    border-radius: 20px;
+}
+.teaser-icon .glyphicon { font-size: 48px; line-height:100px;}
+
+.teaser {
+    text-align:center;
+}

@@ -72,7 +72,7 @@ that has benefited from multiple layers of expertise.
 
 In fact, it won't cost you anything even close to that.
 
-## Professional Software Development Services
+## <a id="development"></a>Professional Software Development Services
 
 ###### (Expertise includes: Python, Django, MySQL, HTML/CSS, ReST Web Services)
 
@@ -111,7 +111,7 @@ Just some of the things I built:
 
 <br/>
 
-## Professional Website Maintenance And Management Services
+## <a id="management"></a>Professional Website Maintenance And Management Services
 
 Besides exceptional software development, I also pride myself on bringing unparalleled attention to your websites' needs…
 **no matter how small you think the ‘job’ might be**.
