@@ -215,7 +215,7 @@ To your success,
 
 <br/>
 
-<a href="/get-started/?o=el-cheapo" class="btn btn-warning">I Want This One</a>
+<a href="/get-started/?o=el-cheapo" class="btn btn-warning">Get Started</a>
 <hr/>
 
 ### *Comprehensive Website Evaluation*
@@ -229,7 +229,7 @@ To your success,
 
 <br/>
 
-<a href="/get-started/?o=comprehensive" class="btn btn-warning">I Want This One</a>
+<a href="/get-started/?o=comprehensive" class="btn btn-warning">Get Started</a>
 <hr/>
 
 ### *Custom Software Development Contract*
@@ -244,7 +244,7 @@ To your success,
 
 <br/>
 
-<a href="/get-started/?o=custom-dev" class="btn btn-warning">I Want This One</a>
+<a href="/get-started/?o=custom-dev" class="btn btn-warning">Get Started</a>
 
 <br/>
 <br/>
