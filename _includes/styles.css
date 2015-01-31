@@ -194,3 +194,12 @@ h1.blog-title,
 .teaser {
     text-align:center;
 }
+.mkt .navbar {margin-bottom:0}
+.mkt #intro {margin-top:0}
+
+@media screen and (min-width: 768px) {
+.jumbotron {
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+}
