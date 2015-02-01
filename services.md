@@ -77,13 +77,13 @@ In fact, it won't cost you anything even close to that.
 ###### (Expertise includes: Python, Django, MySQL, HTML/CSS, ReST Web Services)
 
 * Web Application Development
-* Software development
+* Python, HTML/CSS, Photoshop, Databases (MySQL, Cassandra, MongoDB, NDB)
+* Static website development and hosting using Jekyll
 * Engineering
-* Architecture
+* Software Architecture - N-Tier Application and Service Oriented Architectures
 * Website Hosting Retainer Services
-* Website Maintenance Retainer
-* Scaling
-* Small Site Acceleration Package
+* Scaling on Linode, DigitalOcean, Google AppEngine
+* Small Site Acceleration Package - DNS, Security and Performance
 
 ## Case Study: MillionTraqs.com
 
@@ -120,6 +120,7 @@ If you are prepared to put your trust in me, then I believe I owe it to you to o
 
 My Web Services Include:
 
+* Website Maintenance Retainer (Regular software and content updates monthly/weekly)
 * Data backups
 * Code and system backups
 * Software updates
