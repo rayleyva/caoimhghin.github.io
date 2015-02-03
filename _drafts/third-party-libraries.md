@@ -1,6 +1,0 @@
-From HARO query about web development changes recently
-The biggest driver of web application development trends to me is this notion of refinement. The trade is becoming increasingly refined both in terms of application features/usability and also in terms of the underlying solution implementation. The typical web application developer is also required to know an ever increasingly broad spectrum of services and libraries so that they may be leveraged to build these highly refined applications and keep the whole cost under budget.
-
-The need for extreme refinement is driven by users, but more and more it is driven by users accessing these applications on multiple devices or multiple screens. The web application needs to perform well over this array of devices, needs look good and be usable across the array of screen sizes.
-
-The traditional developer or development shop can't compete and build applications in this environment without leveraging a plethora of open source projects, third party libraries and APIs. We're truly becoming an interconnected community.
