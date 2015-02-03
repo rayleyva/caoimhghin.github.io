@@ -4,6 +4,8 @@ title:  "Rise Of The Third Party"
 date:   2015-02-03 12:30:46
 categories:
 ---
+<meta property="og:image" content="/img/profile.jpg" />
+
 ## "Why write code yourself that someone else has already written to perfection?"
 <br/>
 
