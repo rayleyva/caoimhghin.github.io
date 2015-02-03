@@ -2,10 +2,9 @@
 layout: post
 title:  "Rise Of The Third Party"
 date:   2015-02-03 12:30:46
+og_image: /img/dependencies.png
 categories:
 ---
-<meta property="og:image" content="/img/dependencies.png" />
-
 ## "Why write code yourself that someone else has already written to perfection?"
 
 <img src="/img/dependencies.png" style="width:100%" />
