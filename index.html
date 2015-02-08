@@ -1,15 +1,78 @@
 ---
-layout: default
+layout: compress
 title: Recent Posts
 ---
-<div class="home">
-    <ul class="list-unstyled post-list">
-    {% for post in site.posts limit:4 %}
-        <li>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                {{ post.title }}
-            </a><br/><span class="small">{{ post.date | date: "%b %-d, %Y" }}</span>
-        </li>
-    {% endfor %}
-    </ul>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="Kevin Amerson">
+    <link rel="icon" href="/profile.jpg">
+
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <style>
+        {% include bootstrap.min.css %}
+        {% include bootstrap-theme.min.css %}
+        {% include styles.css %}
+        {% include cover.css %}
+    </style>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    {% if page.og_image %}<meta property="og:image" content="{{ site.url }}{{ page.og_image }}" />{% endif %}
+</head>
+
+<body>
+
+<div class="site-wrapper">
+
+    <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+            <div class="masthead clearfix">
+                <div class="inner">
+                    <h3 class="masthead-brand">Kevin Amerson</h3>
+                    <nav>
+                        <ul class="nav masthead-nav">
+                            <li class="active"><a href="#">Home</a></li>
+                            <li><a href="/services/">Hire Me</a></li>
+                            <li><a href="https://github.com/caoimhghin/feedback/issues/new">Questions</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+
+            <div class="inner cover">
+                <h1 class="cover-heading">Entrepreneur / Investor</h1>
+
+                <p class="lead">Try many different things and do more of works, and less of what doesn't &mdash; <em>Evolution.</em></p>
+
+                <h3>Latest Blog Entry: <a class="post-link" href="{{ site.posts[0].url | prepend: site.baseurl }}">
+                            {{ site.posts[0].title }}
+                        </a></h3>
+            </div>
+
+            <div class="mastfoot">
+                <div class="inner">
+                    <p></p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
 </div>
+</body>
+</html>

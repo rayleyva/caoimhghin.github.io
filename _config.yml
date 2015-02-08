@@ -14,3 +14,6 @@ github_user: https://github.com/caoimhghin
 
 markdown: kramdown
 permalink: pretty
+
+gems:
+  - jekyll-sitemap
