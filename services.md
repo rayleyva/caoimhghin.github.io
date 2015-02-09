@@ -1,9 +1,7 @@
 ---
 layout: marketing
-title: Hire Me
+title: Website Services
 permalink: /services/
-group: nav
-weight: 1
 ---
 
 *Need Exceptional Software Built Fast?*
