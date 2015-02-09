@@ -170,7 +170,8 @@ h1.blog-title,
 .panel .block-label {display:block}
 #intro .btn {width:100%}
 
-#intro .jumbotron {
+#intro .jumbotron,
+#intro2 .jumbotron {
     background:transparent;
     margin-bottom: 0;
 }
@@ -280,3 +281,10 @@ body {
 }
 
 
+.c2 {
+    background-image: url('/img/coloseo.jpg');
+    background-size:cover;
+    color: #fff;
+    text-shadow: 2px 2px #555;
+    background-position: 0 -180px;
+}
