@@ -1,8 +1,3 @@
----
-layout: marketing
-title: Website Services
-permalink: /services/
----
 
 *Need Exceptional Software Built Fast?*
 

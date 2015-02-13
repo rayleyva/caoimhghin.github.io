@@ -288,3 +288,7 @@ body {
     text-shadow: 2px 2px #555;
     background-position: 0 -180px;
 }
+
+h1.pt {
+    font-size:34px;
+}
