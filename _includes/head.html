@@ -21,7 +21,15 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
 
-    {% if page.og_image %}<meta property="og:image" content="{{ site.url }}{{ page.og_image }}" />{% endif %}
+    {% if page.og_image %}
+    <meta property="og:image" content="{{ site.url }}{{ page.og_image }}" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@kevinamerson" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:image" content="{{ page.og_image }}" />
+    {% endif %}
+
 <!-- Start Visual Website Optimizer Asynchronous Code -->
 <script type='text/javascript'>
 var _vwo_code=(function(){
