@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Killing The Phone Screen"
+description: The single most important thing to do that guarantees you will kill the phone screen interview.
 date:   2015-02-13 12:30:46
 og_image: /img/confidence.jpg
 categories:
