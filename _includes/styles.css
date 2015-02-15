@@ -148,7 +148,15 @@ h1.blog-title,
 
 @media screen and (min-width: 768px){
 .jumbotron h1, .jumbotron .h1 {
-    font-size: 48px;
+    font-size: 34px;
+}}
+
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 400px) {
+.jumbotron {padding: 10px;}
+.jumbotron h1, .jumbotron .h1 {
+    font-size: 30px;
 }}
 
 #intro {
@@ -287,8 +295,4 @@ body {
     color: #fff;
     text-shadow: 2px 2px #555;
     background-position: 0 -180px;
-}
-
-h1.pt {
-    font-size:34px;
 }
